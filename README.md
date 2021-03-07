@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/Rajpolu/rajpolu/blob/058004735774353b14e1933d4551f06836eeb37f/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Rajpolu
